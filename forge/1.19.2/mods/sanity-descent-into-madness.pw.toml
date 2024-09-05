@@ -1,0 +1,13 @@
+name = "Sanity: Descent Into Madness"
+filename = "sanitydim-mc1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8EwpjZay/versions/Z5WW8SKP/sanitydim-mc1.19.2-1.1.0.jar"
+hash-format = "sha512"
+hash = "e2da87d7bd316996ccd992ded930b049720972e2eb35a637e59202c1551aa2ed63737c651be2f977bfc591fced2780aac107af6f9299cdb0d7ee5692109ec6bd"
+
+[update]
+[update.modrinth]
+mod-id = "8EwpjZay"
+version = "Z5WW8SKP"

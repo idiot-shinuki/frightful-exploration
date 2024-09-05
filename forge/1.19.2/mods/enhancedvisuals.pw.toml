@@ -1,0 +1,13 @@
+name = "EnhancedVisuals"
+filename = "EnhancedVisuals_FORGE_v1.5.11_mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KjL0jE2w/versions/HSY5hGbS/EnhancedVisuals_FORGE_v1.5.11_mc1.19.2.jar"
+hash-format = "sha512"
+hash = "dfd9a23689b4e6d928b0bdef65f4618d3a6852a2a03a2ad42dd060f232831e03594c3538859b24a1bbcde9d140b3934609f0c077de280839304f64ff7887c012"
+
+[update]
+[update.modrinth]
+mod-id = "KjL0jE2w"
+version = "HSY5hGbS"

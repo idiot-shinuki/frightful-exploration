@@ -1,0 +1,13 @@
+name = "The Midnight Lurker"
+filename = "the_midnight_lurker_3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/obLxUQbm/versions/2c3P38ll/the_midnight_lurker_3.3.1.jar"
+hash-format = "sha512"
+hash = "a189e5a82bf7618f9780b2a91b7b423df51313520fd171b5ed13ff9488fa8b96f63b725e10af937e6f91c2255c4fe0a9ff1393fcf3acceed786da8bbf1bd5bff"
+
+[update]
+[update.modrinth]
+mod-id = "obLxUQbm"
+version = "2c3P38ll"

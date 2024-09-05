@@ -1,0 +1,13 @@
+name = "Enderman Overhaul"
+filename = "endermanoverhaul-forge-1.19.2-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lq6ojcWv/versions/TgB7Em92/endermanoverhaul-forge-1.19.2-0.0.2.jar"
+hash-format = "sha512"
+hash = "24d7ef739a2771e4613b284d31ba5e3f136c49f2200336c32a4794db8dcd7cb5a93ac7b5eff86254b20af9b36a48bcb97e8991c1ce88c59f6d622584330210fa"
+
+[update]
+[update.modrinth]
+mod-id = "Lq6ojcWv"
+version = "TgB7Em92"

@@ -1,0 +1,11 @@
+version:3120
+autoJump:false
+renderDistance:12
+simulationDistance:10
+graphicsMode:1
+renderClouds:"true"
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/Better_Mobs_RP_1.1.zip","file/cubic-sun-moon-v1-8a.zip","file/[1.4.1] Enhanced Boss Bars.zip"]
+incompatibleResourcePacks:["file/cubic-sun-moon-v1-8a.zip"]
+advancedItemTooltips:true
+mipmapLevels:0
+key_zume.zoom:key.keyboard.c

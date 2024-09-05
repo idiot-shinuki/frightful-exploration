@@ -1,0 +1,13 @@
+name = "Seamless Loading Screen "
+filename = "seamless-loading-screen-2.0.3+1.19.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/oIirUfcT/seamless-loading-screen-2.0.3%2B1.19.2-forge.jar"
+hash-format = "sha512"
+hash = "d0e4c623aa1dffcc3e77e6fd47f175c2df0093043f1157b2746f129abb90595c5e89d1e56f8f5b7881ae9fa4a3f464adc80f31ba6e524162c957834377ca489b"
+
+[update]
+[update.modrinth]
+mod-id = "TyTPFOiF"
+version = "oIirUfcT"
