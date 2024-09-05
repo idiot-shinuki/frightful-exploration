@@ -93,7 +93,7 @@ This modpack adds a selection of mods to improve performance, add/change structu
   #### Included Files
   | File Name | Links | License |
   | :- | - | :-: |
-  | packwiz-installer-bootstrap.jar | <a href="" target="_blank">![Packwiz Wiki Page](https://img.shields.io/badge/wiki-%23000000?style=for-the-badge)</a> <a href="https://github.com/packwiz/packwiz-installer-bootstrap/" target="_blank">![packwiz-installer-bootstrap on GitHub](https://img.shields.io/badge/github-%23000000?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)</a> | <a href="https://raw.githubusercontent.com/packwiz/packwiz-installer-bootstrap/main/LICENSE" target="_blank">MIT</a> |
+  | packwiz-installer-bootstrap.jar | <a href="https://packwiz.infra.link/tutorials/installing/packwiz-installer/#creating-a-multimc-instance-for-your-modpack" target="_blank">![Packwiz Wiki Page](https://img.shields.io/badge/wiki-%23000000?style=for-the-badge)</a> <a href="https://github.com/packwiz/packwiz-installer-bootstrap/" target="_blank">![packwiz-installer-bootstrap on GitHub](https://img.shields.io/badge/github-%23000000?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)</a> | <a href="https://raw.githubusercontent.com/packwiz/packwiz-installer-bootstrap/main/LICENSE" target="_blank">MIT</a> |
   
 </details>
 
@@ -109,7 +109,7 @@ This feature requires MultiMC/Prism Launcher. I assume it works on the dedicated
 > Do ***NOT*** click the settings button at the top of the window, those are your *global* settings and pasting the command from step 3 into them will break ***ALL*** other instances!
 3. Click the checkbox at the top to allow overriding the global settings for this specific instance, and set your pre-launch command to the following:
   ```
-  $INST_JAVA -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githack.com/idiot-shinuki/frightful-exploration/main/forge/1.19.2/pack.toml
+  $INST_JAVA -jar packwiz-installer-bootstrap.jar -g https://raw.githack.com/idiot-shinuki/frightful-exploration/main/forge/1.19.2/pack.toml
   ```
 This command will run and check for an update from the GitHub repository every time you launch the instance.
 
