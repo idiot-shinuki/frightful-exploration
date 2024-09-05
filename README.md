@@ -120,7 +120,7 @@ This command will run and check for an update from the GitHub repository every t
   <a href="https://twitch.tv/crismondoc" target="_blank">![CrimsonDoc on Twitch](https://img.shields.io/badge/@crismondoc-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white&logoSize=auto)</a> <a href="https://www.youtube.com/@CrimsonDoc721" target="_blank">![CrimsonDoc on YouTube](https://img.shields.io/badge/@crimsondoc721-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto)</a><br/>
 </div>
 
-- Hammer 1.19.2 from SkywardMC was used as a foundation for this pack, making many performance improvements possible.</br>
+- Hammer 1.19.2 from SkywardMC was used as a foundation for this pack, making many performance improvements possible. This pack is in no way endorsed by SkywardMC, however I would like to offer them my thanks.</br>
 <div align="center">
 
   <a href="https://modrinth.com/modpack/hammer" target="_blank">![Get Hammer on Modrinth](https://img.shields.io/badge/get_hammer-%23000000.svg?style=for-the-badge&logo=modrinth&logoColor=%231bd96a&logoSize=auto)</a> <a href="https://modrinth.com/organization/skywardmc">![More Projects from SkywardMC](https://img.shields.io/badge/more_from_skywardmc-%23000000.svg?style=for-the-badge&logo=modrinth&logoColor=%231bd96a&logoSize=auto)</a> <a href="https://github.com/skywardmc/hammer" target="_blank">![View Hammer on GitHub](https://img.shields.io/badge/hammer_on_github-%23000000?style=for-the-badge&logo=github&logoColor=white)</a>
