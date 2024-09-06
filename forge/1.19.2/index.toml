@@ -591,6 +591,11 @@ hash = "99f2e54dfda4a0df056eece88bcf45f76c150c24bfe46352917756f6b8ada431"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "d5776199f804027b8afb5204444118fed8895a6941385e5279dee5b578aa3e89"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "817bb219a53e00b8d99485cccc123d97d8506b4fb8a309de72fb78b1c283c8e5"
 metafile = true
@@ -613,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/the-midnight-lurker.pw.toml"
 hash = "03035383f4544842a468c6e1cca9b88a2d83e3f0481bfb22e2be2bf66d3b0a23"
-metafile = true
-
-[[files]]
-file = "mods/the-one-who-watches.pw.toml"
-hash = "af52b86a3f9e62b4f3b321370bd5b242a3810db704966092bbe862d2e1e4bf4c"
 metafile = true
 
 [[files]]
