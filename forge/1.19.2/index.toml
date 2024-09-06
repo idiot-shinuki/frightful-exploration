@@ -46,7 +46,7 @@ hash = "85e4362d043acb5b0699ea48a3f05c54adcbf5b73fdbe540b3e0a0ef1511c1f8"
 
 [[files]]
 file = "config/midnightlurkerconfig.json"
-hash = "55fc5ca7e250659735d32a055c1c52489fe322317d720ca9808fbaa93e034f2c"
+hash = "00fd0c14b8e87f14860bcfd99df5be09ebac01308e2e59a684a953fc1bddd888"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -298,7 +298,7 @@ hash = "85e4362d043acb5b0699ea48a3f05c54adcbf5b73fdbe540b3e0a0ef1511c1f8"
 
 [[files]]
 file = "configureddefaults/config/midnightlurkerconfig.json"
-hash = "55fc5ca7e250659735d32a055c1c52489fe322317d720ca9808fbaa93e034f2c"
+hash = "00fd0c14b8e87f14860bcfd99df5be09ebac01308e2e59a684a953fc1bddd888"
 
 [[files]]
 file = "configureddefaults/config/modelfix-client.toml"
