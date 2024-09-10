@@ -1,12 +1,12 @@
 name = "Frightful Exploration"
 author = "idiot-shinuki"
-version = "v1.0.0"
+version = "v1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7e5685ea95999a7ae45da10b464b92d01f530c7bee7748d4231cc45f7c326c0a"
+hash = "216c753f20983d30fb4dbf5ba80baf1ec8281c8a5a564c344d6641a32757668a"
 
 [versions]
 forge = "43.4.2"
