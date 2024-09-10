@@ -586,6 +586,11 @@ hash = "b670c019f6db2682931aec3d11a69ef7581ec175187ef7772de0c77c9834dccb"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e2fadea77d48c3d5f081b704990d4f43d8867810869dd54583daf10720e2afd0"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "99f2e54dfda4a0df056eece88bcf45f76c150c24bfe46352917756f6b8ada431"
 metafile = true
