@@ -1,8 +1,8 @@
 {
-  "time": 80,
+  "time": 20,
   "fade": 20,
   "tintColor": "#121212",
-  "tintStrength": 0.3,
+  "tintStrength": 0.75,
   "enableScreenshotBlur": false,
   "screenshotBlurStrength": 1.0,
   "screenshotBlurQuality": 5.0,
