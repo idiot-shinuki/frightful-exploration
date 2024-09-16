@@ -1,0 +1,13 @@
+name = "You Died"
+filename = "YouDied-1.19.2-2.1.0.14-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgxY6tZf/versions/452eQVv0/YouDied-1.19.2-2.1.0.14-forge.jar"
+hash-format = "sha512"
+hash = "3ce44f703bd6bcadf5f8d26933dfba79c5a11e0979ab36f8db83e1112cf7c5b5801b9cda07474120e147dc62c66266c3a7410059da9a42d9dc39f50220ea0900"
+
+[update]
+[update.modrinth]
+mod-id = "QgxY6tZf"
+version = "452eQVv0"

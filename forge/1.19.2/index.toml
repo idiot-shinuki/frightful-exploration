@@ -62,7 +62,7 @@ hash = "4c5bbc9c51e7cb9d964c3c78e7e7eda59a1ec9d282a2bdc752455feb1bcce06f"
 
 [[files]]
 file = "config/seamless_loading_screen.json"
-hash = "9f96f860ac9b1587b02f698192f6f59cdd71894137de8d4c874be066a7193a84"
+hash = "880f25d44ae0b247e17edbfed59674519a9af42e3adfbd893334e4db90b5a427"
 
 [[files]]
 file = "config/visualworkbench-client.toml"
@@ -269,6 +269,10 @@ file = "configureddefaults/config/forge-common.toml"
 hash = "8a4a66052998138456f09c8871cbd4c29c864932415262ed5ee837e743597a7e"
 
 [[files]]
+file = "configureddefaults/config/graveyard-1.19.x-common.toml"
+hash = "8739848fffa333bd51079872db9fb5bfeeaa8cb1683c84b58f277f8fdc035a5d"
+
+[[files]]
 file = "configureddefaults/config/immediatelyfast.json"
 hash = "f5a207a05824feb078c8289b36a6f321f72e32f869c00cd1cee1e3d7000ce653"
 
@@ -334,11 +338,15 @@ hash = "212c1c6b7fa0f671de835a6ac4f67bfb20d9b5bce6de698824b1ebe395ff704b"
 
 [[files]]
 file = "configureddefaults/config/seamless_loading_screen.json"
-hash = "9f96f860ac9b1587b02f698192f6f59cdd71894137de8d4c874be066a7193a84"
+hash = "880f25d44ae0b247e17edbfed59674519a9af42e3adfbd893334e4db90b5a427"
 
 [[files]]
 file = "configureddefaults/config/smoothboot.json"
 hash = "b232dad1cfe56e15865e292fdcc5fcedb14f6ba27715394caeec0658a50cfa9b"
+
+[[files]]
+file = "configureddefaults/config/spirit.toml"
+hash = "11610e3198d62058cab5fca660c50b6317e859f01187d754672f2956ab343a50"
 
 [[files]]
 file = "configureddefaults/config/supplementaries-client.toml"
@@ -516,6 +524,11 @@ hash = "562d56192c8f15aab67c11f5a8134020023267ea2474564f40bbee3ef16363ac"
 metafile = true
 
 [[files]]
+file = "mods/luminous-monsters.pw.toml"
+hash = "49ac903ece0fce7c851384a952e1056980710360d12a84be4a6e64cec82c816a"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -601,6 +614,11 @@ hash = "d5776199f804027b8afb5204444118fed8895a6941385e5279dee5b578aa3e89"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "268e0770a333849b6d00d4acf7054d894676b406198c13638a8081b71f78df0a"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "817bb219a53e00b8d99485cccc123d97d8506b4fb8a309de72fb78b1c283c8e5"
 metafile = true
@@ -613,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "fc375c0b077b02166efc11a450dac15916f91f01539a59103236e8130bf062d1"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "32d8ce3573b4594f5be11e9f023814dddd78f8c982e7b71d669d589eeea97096"
 metafile = true
 
 [[files]]
@@ -643,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "4398e2197140c8209057a806f12d49d7e88f4e452563290b7c06304cc3eea476"
+metafile = true
+
+[[files]]
+file = "mods/you-died.pw.toml"
+hash = "55f3d299f58554c1735678416121ad7eaccceafcad773eb129ae2f93c57d6359"
 metafile = true
 
 [[files]]

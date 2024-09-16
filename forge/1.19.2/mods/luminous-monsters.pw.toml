@@ -1,0 +1,13 @@
+name = "Luminous: Monsters"
+filename = "Luminous Monster V1.2.2 - Forge 1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TzC3nDsQ/versions/wRDZV7sl/Luminous%20Monster%20V1.2.2%20-%20Forge%201.19.2.jar"
+hash-format = "sha512"
+hash = "946ba90fc8fb5bd991cbc875d01464b35d36591653abe8c30e60047ca3e24287ec768a253efbe7a32682ebb1a5ba9a398e0bb6820d2ca9f3d9656c11748c943d"
+
+[update]
+[update.modrinth]
+mod-id = "TzC3nDsQ"
+version = "wRDZV7sl"

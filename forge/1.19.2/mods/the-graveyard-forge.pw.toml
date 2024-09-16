@@ -1,0 +1,13 @@
+name = "The Graveyard (FORGE/NEOFORGE)"
+filename = "The_Graveyard_2.5.2_(FORGE)_for_1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1jdQuSf/versions/TpOl3Wys/The_Graveyard_2.5.2_%28FORGE%29_for_1.19.2.jar"
+hash-format = "sha512"
+hash = "d7d3c84a919d5c26a1241595ad51ed3791be06754919934b8bb27f5259bc5cd571b2397b1730f3315b93704a8672a1c03444cdf489a02678f2d7674188d95449"
+
+[update]
+[update.modrinth]
+mod-id = "U1jdQuSf"
+version = "TpOl3Wys"

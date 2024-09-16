@@ -1,0 +1,13 @@
+name = "Spirit"
+filename = "spirit-forge-1.19.2-2.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b1LdOZlE/versions/O2ODSmxF/spirit-forge-1.19.2-2.2.7.jar"
+hash-format = "sha512"
+hash = "68060f42b9f6dea4a46b4cc9b448bfe64590c64e7a1d342096c1a14210a170c526640ee351cefa45a5db93635d32cc4889503809a21017895d30043885e34f73"
+
+[update]
+[update.modrinth]
+mod-id = "b1LdOZlE"
+version = "O2ODSmxF"
