@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "cc075e0c57e686c6be3f43925be8c4853de9f4eb42400b56ac8df42029979860"
+hash = "0ecfcb55c6a7506a0262a9e3f620cdd19bf7cd3429623bc98fe65aa31d9f37e0"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e2fadea77d48c3d5f081b704990d4f43d8867810869dd54583daf10720e2afd0"
+hash = "676aff7a6d6c8777a6031cb169b2e803f2d32ef8e461ab294f711577a49e6c2b"
 metafile = true
 
 [[files]]
