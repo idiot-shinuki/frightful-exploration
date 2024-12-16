@@ -189,6 +189,11 @@ hash = "7ba990ce2509a23376debc95dc2ffdbe46cc3975c9d1aa1c6a6b02db66ccea87"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "364d8ad6ab765e75512b8fd8d9512d4e07fa5218ce40be3ef7b624ca0b76c0e0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -291,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "82f10fba43ce4dd3bbe31b3992bd6d336e5dfb176d769c5f98795d3c883ece37"
 metafile = true
 
 [[files]]
