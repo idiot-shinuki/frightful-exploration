@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "deathMessages": [
+      "Do you really want to respawn? You should think again.",
+      "Life is hard. Deal with it!",
+      "You died ... wait, you already knew that!",
+      "Did I leave the stove on...?",
+      "Should\u0027ve shot first...",
+      "Yep, that\u0027s messed up...",
+      "Rage incoming!",
+      "I think you dropped something.",
+      "Time for a break?"
+    ],
+    "enabled": true
+  }
+}

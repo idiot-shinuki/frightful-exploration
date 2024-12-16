@@ -1,0 +1,5 @@
+simulationDistance:10
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","file/Better_Mobs_RP_1.1.zip","file/cubic-sun-moon-v1-8a.zip","file/[1.4.1] Enhanced Boss Bars.zip"]
+incompatibleResourcePacks:["file/Better_Mobs_RP_1.1.zip"]
+advancedItemTooltips:true
+onboardAccessibility:true

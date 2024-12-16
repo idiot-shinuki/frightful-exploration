@@ -1,0 +1,14 @@
+name = "Lithostitched"
+filename = "lithostitched-forge-1.20.1-1.3.9.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/JJbqft7D/lithostitched-forge-1.20.1-1.3.9.jar"
+hash-format = "sha512"
+hash = "64147aff5b5635463c69884ad7c1404defe9aa1ee0272ed2ce8f92b9932913bcb214b4941212a3b58229fa72fb4ce826f84186e4c160b6f0f3a109caf99ec99a"
+
+[update]
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "JJbqft7D"

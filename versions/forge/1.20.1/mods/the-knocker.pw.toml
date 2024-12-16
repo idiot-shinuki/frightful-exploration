@@ -1,0 +1,13 @@
+name = "The Knocker"
+filename = "the_knocker-1.4.0c-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hTju2zcV/versions/ZGnOchPz/the_knocker-1.4.0c-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "6576e24c87663ecb934ec1b630158ce3b18323e8b8b741b831a02902d1be7d9b919b27e8b17b0293dbad917f7da38fb6b876027fe117262609e5ae49b57c4ffa"
+
+[update]
+[update.modrinth]
+mod-id = "hTju2zcV"
+version = "ZGnOchPz"

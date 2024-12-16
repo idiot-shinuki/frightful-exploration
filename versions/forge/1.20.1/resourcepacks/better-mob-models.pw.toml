@@ -1,0 +1,13 @@
+name = "Better Mob Models"
+filename = "Better_Mobs_RP_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fa06JGLx/versions/8tGfqRcs/Better_Mobs_RP_1.1.zip"
+hash-format = "sha512"
+hash = "c1f876c264c9308f73afbf19c3c7f273dd430973c8a9be9c2ca8dd96012251bed0f8ac80f9f5872fb220b8c67f0012b0ade1fc6906b3fabcaa97a15bea0aafba"
+
+[update]
+[update.modrinth]
+mod-id = "fa06JGLx"
+version = "8tGfqRcs"
