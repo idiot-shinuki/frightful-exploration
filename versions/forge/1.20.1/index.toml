@@ -1,32 +1,76 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
 file = "configureddefaults/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
+file = "configureddefaults/config/comforts-server.toml"
+hash = "e9a26eae344988436b84c6939ab7f75f583d9484d4f24988eda8f646b54ce5e4"
 
 [[files]]
 file = "configureddefaults/config/connector.json"
 hash = "f00ca60d0f6e201b8f0b6fb0c571b98538817d2ea1e341110c53571fa408c0f1"
 
 [[files]]
+file = "configureddefaults/config/cristellib/minecraftED.json5"
+hash = "8e01cc9b7e46f74fd60ce36d3459628b8198cb988051ae52f14cda36ef0fd869"
+
+[[files]]
+file = "configureddefaults/config/cristellib/minecraftP.json5"
+hash = "a5ab6bcdebcd437e13c3c0ba6589f3fdb427bf63f32329efd4216c1f921a6ddd"
+
+[[files]]
 file = "configureddefaults/config/cull-less-leaves.json"
 hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
+
+[[files]]
+file = "configureddefaults/config/distantfriends-common.toml"
+hash = "82bbeb90c3ba970cb003e4b1ebbe2a3648adf39c022476dc5de4e48af904565e"
 
 [[files]]
 file = "configureddefaults/config/dynamic_fps.json"
 hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
+file = "configureddefaults/config/dynamiccrosshair.json5"
+hash = "3484e970bc87d41dae50756ff5ee10127a00b19577db86eb67feec322a73376a"
+
+[[files]]
+file = "configureddefaults/config/embeddium++.toml"
+hash = "0079f008e8dabb2f88c549264f2a3a5f8d2c61fa247b1a6b1b759bc7f69caeb6"
+
+[[files]]
 file = "configureddefaults/config/embeddium-options.json"
 hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
+
+[[files]]
+file = "configureddefaults/config/endermanoverhaul-client.jsonc"
+hash = "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
 hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
+file = "configureddefaults/config/enhancedvisuals-client.json"
+hash = "710ce5e1ee22675ee9313e8dde46fa2d534d5c2129c3028eda3bbe3ce363e213"
+
+[[files]]
+file = "configureddefaults/config/enhancedvisuals.json"
+hash = "21c80d8a89f3dad3687cfcbbcea4adb898ad661dfaa6c4c1b7a6658e8cef58f3"
+
+[[files]]
 file = "configureddefaults/config/entityculling.json"
 hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "configureddefaults/config/fallingtree.json"
+hash = "72062ba031776ede1278786ed2c628de8836860461b7421b053d90ebd955c29c"
 
 [[files]]
 file = "configureddefaults/config/ferritecore.mixin.properties"
@@ -37,16 +81,92 @@ file = "configureddefaults/config/immediatelyfast.json"
 hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
+file = "configureddefaults/config/jade/jade.json"
+hash = "9ed05bc8bf8caeb3aede6a7555ab2c9d5a4ffa8b3c0f57ccf6396b64f0f68b89"
+
+[[files]]
+file = "configureddefaults/config/knocker.toml"
+hash = "85e4362d043acb5b0699ea48a3f05c54adcbf5b73fdbe540b3e0a0ef1511c1f8"
+
+[[files]]
+file = "configureddefaults/config/midnightlurkerconfig.json"
+hash = "9b10b167eb6212aea4f3c7be3a4cd30889e094afc9e701f7b62c6a980729b0b8"
+
+[[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
+
+[[files]]
+file = "configureddefaults/config/oculus.properties"
+hash = "207a2ab097648175c14dc92f708d47324b6a306d3cea3e7debb667527e12585a"
+
+[[files]]
+file = "configureddefaults/config/seamless_loading_screen.json"
+hash = "cd91fd75f52b29f7ef158800280128cc0b183e19b78b4ce1d45d923be109e6bf"
+
+[[files]]
+file = "configureddefaults/config/sound_physics_remastered/allowed_sounds.properties"
+hash = "871598c85a0b437dbb7184807c636be07fa66e335ae8a093e5e6118613daefd5"
+
+[[files]]
+file = "configureddefaults/config/sound_physics_remastered/occlusion.properties"
+hash = "a2518d6995851e8b98aec5504e446643c2d664b3fb30734550c606e8f7fda8db"
+
+[[files]]
+file = "configureddefaults/config/sound_physics_remastered/reflectivity.properties"
+hash = "eef6dfd9eb91c127044a90df535a54ec6a4e526cdba4d34dc2e08349b3da3f9b"
+
+[[files]]
+file = "configureddefaults/config/sound_physics_remastered/soundphysics.properties"
+hash = "b5d28290c541cbefb299864d6081715d82611b996649c2630140efd9db11d609"
 
 [[files]]
 file = "configureddefaults/config/threadtweak.json"
 hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
 
 [[files]]
+file = "configureddefaults/config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "3aaa6ac8835dbbce97928c4d0d03f9957749a7a57a3f1668597310e9227900da"
+
+[[files]]
+file = "configureddefaults/config/towns_and_towers/structure_rarity_new.json5"
+hash = "963600c1ce0df56f2ff229383b02c2e6c8f33f88ab5848207cd5b1bb0c491938"
+
+[[files]]
+file = "configureddefaults/config/visualworkbench-client.toml"
+hash = "d7900dfa6ef89b1c67cf1302ca25dc1bd4c03fa82e83e256078a9766d9e7f987"
+
+[[files]]
+file = "configureddefaults/config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "configureddefaults/config/voicechat/voicechat-client.properties"
+hash = "905af218e205fe9e9656aed46dab564ba950a9adb88e924fb8f0ef23acd28831"
+
+[[files]]
+file = "configureddefaults/config/voicechat/voicechat-server.properties"
+hash = "c2fcee520264d43b2f88be61a30c626ae334396b42346708bd6dfe340ce3b11d"
+
+[[files]]
+file = "configureddefaults/config/voicechat/voicechat-volumes.properties"
+hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
+
+[[files]]
+file = "configureddefaults/config/world-host.json5"
+hash = "73951220c68d816a9ad7d90325c08e51193f255680d52afbd0c7b0809ccbb378"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
+hash = "4538a2f6a8f48b5b630b769a90928ca274596ebbab7f46366d3a35a63c6f23d6"
+
+[[files]]
+file = "configureddefaults/shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip.txt"
+hash = "be220fe4c4a0895191afd0bce12aa7a20ebfacec90f15e6e795799707664ae46"
+
+[[files]]
+file = "configureddefaults/shaderpacks/Insanity-Shader-Universal-v1.650.zip.txt"
+hash = "bb87db5ceda8479498ebf3a474756cb1788e76247a471b3e5e5699aa968659f5"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -412,6 +532,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/better-mob-models.pw.toml"

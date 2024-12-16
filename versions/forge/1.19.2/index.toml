@@ -198,7 +198,7 @@ hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
 
 [[files]]
 file = "configureddefaults/config/comforts-server.toml"
-hash = "a5625c8c3cb35b0f763b784e0408c320668465200250ff42908e160ad6c488db"
+hash = "ab8295c7f1d33e43e898f2f87a5ea71d8bd9629a4349d0420a710718ce3eb745"
 
 [[files]]
 file = "configureddefaults/config/cull-less-leaves.json"
