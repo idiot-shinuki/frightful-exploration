@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "cc075e0c57e686c6be3f43925be8c4853de9f4eb42400b56ac8df42029979860"
+hash = "0ecfcb55c6a7506a0262a9e3f620cdd19bf7cd3429623bc98fe65aa31d9f37e0"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "426e8b3655730345ec9ab9df856306b6350aca40b00a453ed2cd75f79595e64f"
+hash = "fc69eee70766a8a31d810320c25ec5c8ea7c728d79559b0c510a286b5e34d8fc"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e2fadea77d48c3d5f081b704990d4f43d8867810869dd54583daf10720e2afd0"
+hash = "03930a0ea8cbe6989ea8e685da8e3d7ebe4b8befb494b095f6a82bc5449fcc5b"
 metafile = true
 
 [[files]]
@@ -617,12 +617,12 @@ metafile = true
 
 [[files]]
 file = "mods/the-knocker.pw.toml"
-hash = "f6ca57ba9ba44352867ce7aa8f44f4610dd89427c8ca2ade6fffe0ce7be1619e"
+hash = "8eef758ef65ce6d1f882b9540581f9bc81657194f1f6479d022088889261e3bb"
 metafile = true
 
 [[files]]
 file = "mods/the-midnight-lurker.pw.toml"
-hash = "03035383f4544842a468c6e1cca9b88a2d83e3f0481bfb22e2be2bf66d3b0a23"
+hash = "6e6ddf217cb26eae2197a6b4b55cc9b1c832b4f4a5f640a337a82d16fbf77dd3"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "e002c0078eaeac5df34c93c96bf22ae750623f6a19eba011dc7a2049563ed222"
+hash = "dca098be81147ab018391d24d7f8f2228e9da056853e25c3cb207d6623f2a163"
 metafile = true
 
 [[files]]
